@@ -1,0 +1,2 @@
+# Ignore raw enterprise datasets to prevent 100MB limit errors
+data/raw/enterprise_transactions_raw.csv
